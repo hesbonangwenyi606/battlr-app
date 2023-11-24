@@ -6,8 +6,7 @@ Bot Battlr is a React application that allows users to manage a collection of bo
 
 
 # This project has already been deployed online and can be viewed using the link below:
-
-
+hesbonmanyi254.github.io/battlr-app/
 Alterntively, if you want to run the machine locally and make changes to the project, the following softwares need to be installed;
 
 Node.js: Download and install Node.js from the official website.
