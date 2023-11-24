@@ -4,6 +4,16 @@
   # Bot Battlr
 Bot Battlr is a React application that allows users to manage a collection of bots. The application features a Bot Collection, Your Bot Army, Bot Details, and sorting functionality.
 
+
+# This project has already been deployed online and can be viewed using the link below:
+
+
+Alterntively, if you want to run the machine locally and make changes to the project, the following softwares need to be installed;
+
+Node.js: Download and install Node.js from the official website.
+
+
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
